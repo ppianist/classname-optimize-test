@@ -5,7 +5,7 @@ import { Logo } from "@components/scss";
 
 export const Header: React.FC = () => {
   return (
-    <div className={styles.header}>
+    <div className={styles.main}>
       <Logo />
     </div>
   );
